@@ -7,13 +7,13 @@ A simple RESTful service for creating, retrieving, and storing messages, built w
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
-- [Configuration](#-configuration)
+<!-- - [Configuration](#-configuration)
 - [Running the App](#-running-the-app)
 - [Available Scripts](#-available-scripts)
 - [API Endpoints](#-api-endpoints)
 - [Testing](#-testing)
 - [Project Structure](#-project-structure)
-- [License](#-license)
+- [License](#-license) -->
 
 ## 🚀 Features
 

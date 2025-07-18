@@ -1,5 +1,7 @@
+import { Injectable } from '@nestjs/common';
 import { readFileSync, writeFile } from 'fs';
 
+@Injectable()
 export class MessagesRepository {
   async loadMessages() {
     try {
